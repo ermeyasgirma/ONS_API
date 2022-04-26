@@ -4,6 +4,8 @@
 #pip install flask
 #pip install pandas
 #pip install openpyxl
+
+
 export FLASK_APP=api.py
-export FLASK_ENC=development
+export FLASK_ENV=development
 flask run
