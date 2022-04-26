@@ -1,0 +1,9 @@
+North East: DH DL NE SR TD TS 
+North West: BB BD BL CA CH CW FY L LA M OL PR SK WA WN 
+Yorkshire and the Humber: DN HD HG HU HX LS S WF YO 
+East Midlands: CV DE LE LN MK NG NN OX PE 
+West Midlands: B DY HR LD NP ST SY TF WR WS WV 
+East: AL CB CM CO EN HA HP IP LU NR PE RM SG SS WD 
+London: E BR CR DA EC EN HA IG KT N NW SE SM SW TN TW UB W WC 
+South East: BN CR CT DA GU HP KT ME PO RG RH SL SM SO WD 
+South West: EX GL NP PL SN SP TA TQ TR 

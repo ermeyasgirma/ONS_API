@@ -1,0 +1,25 @@
+{
+    "case_id": "56763bf7-d046-4a54-a4a1-0728c724a092",
+    "values": {
+        "outgoings water": 8.6,
+        "outgoings communications": 18.2,
+        "outgoings_mortgage_rent": 44.6,
+        "outgoings_insurance": 17.6,
+        "outgoings_investments": 7.1,
+        "outgoings_council_tax": 44.6,
+        "outgoings_food": 56.0,
+        "outgoings_clothing": 19.2,
+        "outgoings_other_living_costs": 43.7,
+        "outgoings_entertainment": 1.7,
+        "outgoings_holidays": 24.3,
+        "outgoings_sports": 7.5,
+        "outgoings_pension": 23.5,
+        "outgoings_car_costs": 6.9,
+        "outgoings_other_transport_costs": 1.1,
+        "outgoings_child_care": 0.4,
+        "outgoings_fuel": 1.4,
+        "outgoings_ground_rent_service_charge_shared_equity_rent ": 37.2,
+        "outgoings_television_license": 6.3,
+        "outgoings_household_repairs": 2.1
+    }
+}
