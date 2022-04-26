@@ -77,7 +77,7 @@ def affordability(jsondata):
 
 
 def mainAPI(case_id):
-    j = open('/home/ermeyas/Downloads/case.json')
+    j = open('case.json')
     jdata = json.load(j)
     output = affordability(jdata)
     #print(output)
